@@ -1,16 +1,11 @@
-#include <unistd.h>
-#include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
-#include <sys/wait.h>
 #include "main.h"
 #define PRMTSIZ 255
 #define MAXARGS 63
 #define EXITCMD "exit"
 /*
-*/int main(void) 
+*/int main(void)
 {
-for (;;) 
+for (;;)
 {
 char input[PRMTSIZ + 1] = { 0x0 };
 char *ptr = input;
