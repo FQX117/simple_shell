@@ -1,0 +1,14 @@
+./" This is the manpage of the simple shell repostory
+.TH simple_shell "2022-3-30" "V1.0" "simple _shell man page"
+
+.SH NAME
+simple_shell
+
+.SH DESCRIPTION
+This is a recreation of a linux shell that takes in basic commmands and runs simple bash scripts.
+
+.SH OPTIONS 
+Any basic linux commands
+
+.SH SYNOPSIS
+ 
